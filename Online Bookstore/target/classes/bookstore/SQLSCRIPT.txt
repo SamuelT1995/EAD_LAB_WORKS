@@ -1,0 +1,9 @@
+   SCRIPT I USED IN MYSQL SHELL
+   
+   CREATE TABLE Books (
+          id INT AUTO_INCREMENT PRIMARY KEY,
+          title VARCHAR(255),
+          author VARCHAR(50),
+          price DOUBLE
+      );
+      
